@@ -131,3 +131,10 @@ dmypy.json
 Dataset/
 
 Model/
+colab/val_features.pkl
+colab/features.pkl
+colab/descriptions.txt
+colab/val_descriptions.txt
+test_features.pkl
+test_descriptions.txt
+
