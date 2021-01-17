@@ -138,3 +138,7 @@ colab/val_descriptions.txt
 test_features.pkl
 test_descriptions.txt
 
+
+*.pkl
+
+*.txt
